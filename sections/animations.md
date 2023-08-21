@@ -11,6 +11,7 @@ Here's a table listing some of the best Animation Packages in React Native for A
 | 3    | ⭐ 9.6k              | [**React Native Reanimatable**](https://github.com/oblador/react-native-animatable) | :white_check_mark:    | Declarative transitions and animations for React Native |
 | 4    | ⭐ -            | [**React Native Animation API**](https://reactnative.dev/docs/animations) | :white_check_mark: | The built-in animation library for React Native, offering basic animation capabilities for developers familiar with React. |
 | 5    | ⭐ 6.9k            | [**React Native SVG**](https://github.com/react-native-svg/react-native-svg) | :white_check_mark: | A library for working with SVG (Scalable Vector Graphics) in React Native, enabling animations and vector graphics rendering. |
+| 6    | ⭐ 5.5k            | [**React Native Gesture Handler**](https://github.com/software-mansion/react-native-gesture-handler) | :white_check_mark: | A library for handling gestures and touch interactions in React Native, built on top of the Native Driver. |
 
 </br>
 </br>
@@ -70,3 +71,16 @@ Here's a table listing some of the best Animation Packages in React Native for A
 
 ### 5. React Native Reanimatable
      - Declarative transitions and animations for React Native
+
+### 6. React Native Gesture Handler
+   - **Advantages**:
+     - A library for handling gestures and touch interactions in React Native.
+     - Provides smooth, high-performance gesture recognition.
+     - Built on top of the Native Driver for optimal performance.
+   - **Disadvantages**:
+     - May require careful handling to avoid gesture conflicts.
+     - Learning curve for developers new to gesture handling.
+   - **When to use**:
+     - For projects that need precise gesture control and smooth touch interactions.
+     - Suitable for apps with custom swipe, pinch, or rotation gestures.
+
