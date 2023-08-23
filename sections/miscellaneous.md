@@ -3,7 +3,7 @@
 
 Here's another table featuring more miscellaneous React Native packages that can be valuable for various purposes as of August 2023:
 
-### ℹ️ Some of these libraries may be complementary to each other, not competing. Choose wisely
+
 | Rank | Popularity / GitHub Stars | Package | Maintainability | Description |
 | ---- | -------------------------- | ------- | ---------------- | ----------- |
 | 1    | ⭐ 17k          | [**React Native Vector Icons**](https://github.com/oblador/react-native-vector-icons) | :white_check_mark: | A library for using custom vector icons in React Native applications, with support for a wide range of icon sets. |
