@@ -40,7 +40,7 @@
 20. 🔗 [**Payment Packages**](./sections/payment.md)
 21. 🔗 [**WebView Packages**](./sections/webview.md)
 22. 🔗 [**Accessibility Packages**](./sections/accessibility.md)
-23. 🔗 [**Date Packages**](./sections/dates.md)
+23. 🔗 [**Date Packages**](./sections/date.md)
 24. 🔗 [**Dialogs / Sheets / Toasts / Alerts Packages**](./sections/dialogs-sheets-toasts.md)
 25. 🔗 [**QR Code Packages**](./sections/qr-code.md)
 26. 🔗 [**Social Sharing Packages**](./sections/social-sharing.md)
