@@ -49,3 +49,12 @@
 30. 🔗 [**App Store Related Packages**](./sections/app-store.md)
 31. 🔗 [**Images Caching Editing Packages**](./sections/images-caching-editing.md)
 32. 🔗 [**Miscellaneous Packages**](./sections/miscellaneous.md)
+
+</br>
+
+## Contribution
+
+Feel free to add packages you think it should be in the list. </br>
+Also you can open an issue if you notice something wrong 👍.
+
+</br>
