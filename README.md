@@ -47,7 +47,7 @@
 27. 🔗 [**Encryption Packages**](./sections/encryption.md)
 28. 🔗 [**Contacts / SMS Packages**](./sections/contacts-sms.md)
 30. 🔗 [**App Store Related Packages**](./sections/app-store.md)
-31. 🔗 [**Images Caching Editing Packages**](./sections/images-caching-editing.md)
+31. 🔗 [**Images / Caching / Editing Packages**](./sections/images-caching-editing.md)
 32. 🔗 [**Miscellaneous Packages**](./sections/miscellaneous.md)
 
 </br>
