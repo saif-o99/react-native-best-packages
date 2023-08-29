@@ -7,7 +7,7 @@ Here's a table listing some of the best Animation Packages in React Native for A
 | Rank | Popularity / GitHub Stars | Package | Maintainability | Description |
 | ---- | -------------------------- | ------- | ---------------- | ----------- |
 | 1    | ⭐ 16k          | [**Lottie React Native**](https://github.com/lottie-react-native/lottie-react-native) | :white_check_mark: | A library for adding high-quality animations to React Native apps using Lottie, an animation file format that supports JSON-based animations. |
-| 2    | ⭐ 7.6k              | [**React Native Reanimated 2**](https://github.com/software-mansion/react-native-reanimated) | :white_check_mark:     | A library for creating smooth, highly performant animations in React Native using the power of the Reanimated 2 framework. |
+| 2    | ⭐ 7.6k              | [**React Native Reanimated 3**](https://github.com/software-mansion/react-native-reanimated) | :white_check_mark:     | A library for creating smooth, highly performant animations in React Native using the power of the Reanimated 2 framework. |
 | 3    | ⭐ 9.6k              | [**React Native Reanimatable**](https://github.com/oblador/react-native-animatable) | :white_check_mark:    | Declarative transitions and animations for React Native |
 | 4    | ⭐ -            | [**React Native Animation API**](https://reactnative.dev/docs/animations) | :white_check_mark: | The built-in animation library for React Native, offering basic animation capabilities for developers familiar with React. |
 | 5    | ⭐ 6.9k            | [**React Native SVG**](https://github.com/react-native-svg/react-native-svg) | :white_check_mark: | A library for working with SVG (Scalable Vector Graphics) in React Native, enabling animations and vector graphics rendering. |
