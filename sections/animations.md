@@ -8,10 +8,11 @@ Here's a table listing some of the best Animation Packages in React Native for A
 | ---- | -------------------------- | ------- | ---------------- | ----------- |
 | 1    | ⭐ 16k          | [**Lottie React Native**](https://github.com/lottie-react-native/lottie-react-native) | :white_check_mark: | A library for adding high-quality animations to React Native apps using Lottie, an animation file format that supports JSON-based animations. |
 | 2    | ⭐ 7.6k              | [**React Native Reanimated 3**](https://github.com/software-mansion/react-native-reanimated) | :white_check_mark:     | A library for creating smooth, highly performant animations in React Native using the power of the Reanimated 2 framework. |
-| 3    | ⭐ 9.6k              | [**React Native Reanimatable**](https://github.com/oblador/react-native-animatable) | :white_check_mark:    | Declarative transitions and animations for React Native |
-| 4    | ⭐ -            | [**React Native Animation API**](https://reactnative.dev/docs/animations) | :white_check_mark: | The built-in animation library for React Native, offering basic animation capabilities for developers familiar with React. |
-| 5    | ⭐ 6.9k            | [**React Native SVG**](https://github.com/react-native-svg/react-native-svg) | :white_check_mark: | A library for working with SVG (Scalable Vector Graphics) in React Native, enabling animations and vector graphics rendering. |
-| 6    | ⭐ 5.5k            | [**React Native Gesture Handler**](https://github.com/software-mansion/react-native-gesture-handler) | :white_check_mark: | A library for handling gestures and touch interactions in React Native, built on top of the Native Driver. |
+| 3    | ⭐ 3.5k              | [**Moti**](https://github.com/nandorojo/burnt) | :white_check_mark:    | The React Native (+ Web) animation library, powered by Reanimated 3. |
+| 4    | ⭐ 9.6k              | [**React Native Reanimatable**](https://github.com/oblador/react-native-animatable) | :white_check_mark:    | Declarative transitions and animations for React Native |
+| 5    | ⭐ -            | [**React Native Animation API**](https://reactnative.dev/docs/animations) | :white_check_mark: | The built-in animation library for React Native, offering basic animation capabilities for developers familiar with React. |
+| 6    | ⭐ 6.9k            | [**React Native SVG**](https://github.com/react-native-svg/react-native-svg) | :white_check_mark: | A library for working with SVG (Scalable Vector Graphics) in React Native, enabling animations and vector graphics rendering. |
+| 7    | ⭐ 5.5k            | [**React Native Gesture Handler**](https://github.com/software-mansion/react-native-gesture-handler) | :white_check_mark: | A library for handling gestures and touch interactions in React Native, built on top of the Native Driver. |
 
 </br>
 </br>
@@ -43,6 +44,21 @@ Here's a table listing some of the best Animation Packages in React Native for A
    - **When to use**:
      - For apps that require smooth and interactive animations.
      - When you need advanced control over animations.
+
+### 2. Moti
+   - **Highlights**:
+      - Universal: works on all platforms
+      - 60 FPS animations on the native thread
+      - Mount/unmount animations, like framer-motion
+      - Powered by Reanimated 3
+      - Web support, out-of-the-box
+      - Expo support
+      - Intuitive API
+      - Variants
+      - Strong TypeScript support
+      - Highly-configurable animations
+      - Sequence animations
+      - Loop & repeat animations
 
 ### 3. React Native Animation API
    - **Advantages**:
