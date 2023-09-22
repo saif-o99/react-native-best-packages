@@ -6,9 +6,10 @@ Here's a table listing some of the best Database and Storage Packages in React N
 | ---- | -------------------------- | ------- | ---------------- | ----------- |
 | 1    | ⭐ 9.3k              | [**WatermelonDB**](https://github.com/Nozbe/WatermelonDB) | :white_check_mark:   | A highly efficient, React Native-first database library that provides a performant way to work with complex data models. |
 | 2    | ⭐ 5.3k              | [**Realm**](https://github.com/realm/realm-js) | :white_check_mark:     | A lightweight, mobile-first database that offers real-time synchronization and is designed for offline-first applications. |
-| 3    | ⭐ 4.2k          | [**AsyncStorage**](https://github.com/react-native-async-storage/async-storage) | :white_check_mark: | A built-in key-value storage system for React Native that provides simple, asynchronous storage capabilities. |
-| 4    | ⭐ 3.7k              | [**Hive**](https://github.com/hivedb/hive) | :white_check_mark:    | A lightweight and efficient database solution for Flutter and Dart that also works with React Native through the Dart interop. |
-| 5    | ⭐ 2.6k            | [**SQLite**](https://github.com/andpor/react-native-sqlite-storage) | :x: | A React Native module for using SQLite, a popular and serverless relational database, in your mobile apps. |
+| 3    | ⭐ 4.2k          | [**react-native-mmkv**](https://github.com/react-native-async-storage/async-storage) | :white_check_mark: | ⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage! |
+| 4    | ⭐ 4.2k          | [**AsyncStorage**](https://github.com/react-native-async-storage/async-storage) | :white_check_mark: | A built-in key-value storage system for React Native that provides simple, asynchronous storage capabilities. |
+| 5    | ⭐ 3.7k              | [**Hive**](https://github.com/hivedb/hive) | :white_check_mark:    | A lightweight and efficient database solution for Flutter and Dart that also works with React Native through the Dart interop. |
+| 6    | ⭐ 2.6k            | [**SQLite**](https://github.com/andpor/react-native-sqlite-storage) | :x: | A React Native module for using SQLite, a popular and serverless relational database, in your mobile apps. |
 
 </br>
 </br>
@@ -42,6 +43,19 @@ Here's a table listing some of the best Database and Storage Packages in React N
      - For apps that require real-time data sync and complex data models.
      - When you prioritize offline-first functionality.
 
+### 3. react-native-mmkv
+   - **Features**:
+     - Get and set strings, booleans and numbers
+     - Fully synchronous calls, no async/await, no Promises, no Bridge.
+     - Encryption support (secure storage)
+     - Multiple instances support (separate user-data with global data)
+     - Customize storage location
+     - High performance because everything is written in C++
+     - ~30x faster than AsyncStorage
+     - Uses JSI instead of the "old" Bridge
+     - iOS, Android and Web support
+     - Easy to use React Hooks API
+    
 ### 3. AsyncStorage
    - **Advantages**:
      - Built-in and simple to use for small data storage needs.
